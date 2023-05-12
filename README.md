@@ -5,5 +5,8 @@ The path(in rect: CGRect) function is used to create the actual path of the flow
 The ContentView struct is responsible for displaying the flower and the sliders that control the petalOffset and petalWidth properties of the Flower struct. The @State property wrapper is used to create two state variables that control these properties, and the Slider view is used to allow the user to adjust these values.
 
 
+https://github.com/Ktamim98/GraphicsDesignSwiftUI/assets/124142522/c5fc720e-df0a-4ad1-9b08-3a371ecc7d48
+
+
 ## Credits
 This project was created by following the course of "100 Days of SwiftUi" by Paul Hudson.
